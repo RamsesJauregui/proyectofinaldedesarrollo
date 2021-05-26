@@ -1,2 +1,2 @@
 # proyectofinaldedesarrollo
-Este es mi proyecto final parala clase de desarrollo web
+Este es mi proyecto final para la clase de desarrollo web
